@@ -1,2 +1,2 @@
 # Web-Cup 
-# UoM Web Competition 2019
+# Front-end/back-end development
